@@ -23,6 +23,5 @@ If you're referring to a specific version of Llama, such as "llama3.2", I couldn
 
 Can you please provide more context or information about what you're looking for?
 
-Your question: exit
-Goodbye!
+
 -----------------------------------------------------------------------------------------------------
