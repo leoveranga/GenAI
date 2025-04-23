@@ -25,3 +25,8 @@ Can you please provide more context or information about what you're looking for
 
 
 -----------------------------------------------------------------------------------------------------
+
+## Cover Letter Generator using Streamlit and ollama (local RAG) ##
+![image](https://github.com/user-attachments/assets/021d6b51-987a-4051-91bf-71f4bd4eb7b5)
+
+
