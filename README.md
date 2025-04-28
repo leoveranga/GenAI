@@ -30,3 +30,17 @@ Can you please provide more context or information about what you're looking for
 ![image](https://github.com/user-attachments/assets/021d6b51-987a-4051-91bf-71f4bd4eb7b5)
 
 
+-----------------------------------------------------------------------------------------------------
+
+## Streamlit app that accepts minimum 500 words text from user and predict if text is AI or human written text   ##
+
+
+![AIGenTextDetector](https://github.com/user-attachments/assets/38a805f5-c988-4bbc-bb98-710318d7c3fd)
+
+![AIGenTextDetector2](https://github.com/user-attachments/assets/759366f6-795d-4c21-8a32-bc8af7bf9b96)
+
+![AIGenTextPositive1](https://github.com/user-attachments/assets/fc91dc3e-97dc-482c-b7bf-a6bba0a7156f)
+
+![AIGenTextPositive2](https://github.com/user-attachments/assets/4b313fe5-3c18-4772-83f9-1c6f17118e38)
+
+
